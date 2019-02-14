@@ -3,3 +3,4 @@ bin/
 obj/
 Chup-8.sln.DotSettings.user
 Chup-8.csproj.user
+packages/

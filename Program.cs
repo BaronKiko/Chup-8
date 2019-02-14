@@ -10,8 +10,8 @@ namespace Chup_8
     {
         static void Main(string[] args)
         {
-            Chup8 chup8 = new Chup8(args[0]);
-            chup8.Run();
+            Chup8 chup8 = new Chup8(args[0], 0);
+            chup8.Run(1000);
         }
     }
 }
